@@ -1,0 +1,6 @@
+Credentials cache: API:DC9441FA-AE2D-4F3D-A047-D8B358B46ED5
+        Principal: ocarlos-@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Nov 19 08:34:58 2019  Nov 26 08:34:58 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
+Nov 19 08:49:52 2019  Nov 26 08:34:58 2019  host/vogsphere.42sp.org.br@42SP.ORG.BR
